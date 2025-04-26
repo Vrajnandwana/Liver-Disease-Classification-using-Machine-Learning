@@ -16,9 +16,10 @@ Gaussian and Bernoulli Naive Bayes
 XGBoost Classifier
 
 > 📊 Dataset
-The dataset contains patient information such as age, gender, bilirubin levels, and enzyme counts.
-
+The dataset contains  patient information such as age, gender, bilirubin levels, and enzyme counts.
 Target variable: Liver Disease (1 = Has Disease, 0 = No Disease)
+This dataset is Liver Disease Patient Dataset 30K train data which i have downloaded from kaggle
+https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset
 
 > 🏆 Current Results
 Multiple models trained and evaluated.
